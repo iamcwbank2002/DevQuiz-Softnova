@@ -72,6 +72,12 @@
       <CartPage :cart="cart" :discount="discount" :totalPrice="totalPrice" @remove-from-cart="removeFromCart" />
     </main>
   </div>
+  
+  <!-- Footer Section -->
+  <footer class="bg-[#282828] text-white text-center py-4 sm:py-6 md:py-8 lg:py-10">
+    <p class="text-xs sm:text-sm md:text-base lg:text-lg">&copy; 2025 BAN9DINShop™. All Rights Reserved.</p>
+  </footer>
+  
 </template>
 
 <script>
