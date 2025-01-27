@@ -17,7 +17,7 @@
         <div class="text-center">
           <!-- Main Heading -->
           <h1 class="text-4xl sm:text-5xl font-bold tracking-tight text-white text-shadow-md mb-6">
-            BAN9DIN Shop ตอนนี้เรามีโปรโมชั่น!!
+            BAN9DIN Shop เรามีโปรโมชั่น!!
           </h1>
           <!-- Sub Headings with Promotion Details -->
           <h3 class="text-xl sm:text-2xl font-semibold tracking-tight text-white">
